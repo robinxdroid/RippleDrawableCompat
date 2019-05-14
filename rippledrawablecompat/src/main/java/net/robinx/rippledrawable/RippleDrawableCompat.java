@@ -102,7 +102,7 @@ public class RippleDrawableCompat extends Drawable implements OnTouchListener {
 
     /**
      * {@code Build.VERSION_CODES.LOLLIPOP} 以上版本使用{@link android.graphics.drawable.RippleDrawable},此时需要为View设置一个背景，{@link android.graphics.drawable.RippleDrawable}计算边界使用<br>
-     * {@code Build.VERSION_CODES.LOLLIPOP} 以上版本使用{@link RippleDrawableCompat}
+     * {@code Build.VERSION_CODES.LOLLIPOP} 以下版本使用{@link RippleDrawableCompat}
      *
      * @param v
      * @param primaryColor
