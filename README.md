@@ -4,7 +4,7 @@ RippleDrawable兼容类，同时更方便的创建View点击水波纹效果
 
 ### 预览 ###
 
-[](https://github.com/robinxdroid/RippleDrawableCompat/blob/master/1.gif?raw=true)
+![](https://github.com/robinxdroid/RippleDrawableCompat/blob/master/1.gif?raw=true)
 
 ### Usage ###
 ```java
